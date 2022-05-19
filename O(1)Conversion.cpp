@@ -41,7 +41,7 @@ int main()
     }
     std::cout << "\n";
     // testing
-    //* q is evalueted by the following equation q = i * J * K + (k + j * K)
+    //* q is evalueted by the following equation q = i * m * p + (k + j * p)
     for (int i = 0; i < n; i++) // I
     {
         for (int j = 0; j < m; j++) // J
